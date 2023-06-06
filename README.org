@@ -1,0 +1,9 @@
+* ieee-floats
+
+Common Lisp IEEE-754 float en- and decoding
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/marijnh/ieee-floats.git |
+| commit  | 9566ce8                                        |
+| systems | ieee-floats                                    |
+|---------+------------------------------------------------|
